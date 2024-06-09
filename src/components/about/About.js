@@ -35,10 +35,27 @@ function About() {
             </article>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga
-            voluptas fugiat sed nulla, qui soluta est aliquid vel ab praesentium
-            repellendus quidem! Ducimus, laboriosam aspernatur. Quas velit
-            distinctio officiis quia.
+            I am a highly passionate software expert, focusing primarily on Web
+            Applications, Web Services, Cloud Computing (used Azure at Microsoft
+            and OCI at Oracle, used AWS and GCP for my Personal projects), Big
+            Data (COSMOS and SCOPE), and Mobile Development. My 15 years of
+            professional experience, on top of my undergraduate and graduate
+            studies (in Vietnam and in the U.S.) have equipped me with a
+            profound knowledge of object-oriented design and development,
+            debugging and troubleshooting product issues. My strongest technical
+            skills are C# and .Net Framework, Java, Multi-tier applications,
+            developing and testing websites (ASP.NET, HTML5, CSS3, jQuery,
+            JavaScript, TypeScript, Node.js, Silverlight, IIS, MVC, MVVM, Ajax,
+            Kendo UI, Knockout, React, Firebug, Fiddler, Selenium), MS SQL
+            Server, COSMOS, and SCOPE. I have experience in many platforms
+            including Windows 8.1/10, Windows Server 2008/2012, Windows Mobile
+            6.1/6.5, Blackberry, and Linux. I'm also proficient in using tools
+            like WTT, MS Test, ProductStudio, CoreXT, MS Build, Jira, Git,
+            Jenkins. In addition, I possess strong analytical, problem solving,
+            and communication skills; a passion for solving puzzles, algorithms,
+            and developing on a rock-solid foundation; and am able to work under
+            pressure in a fast-paced environment either independently or in a
+            team.
           </p>
           <a href="#contact" className="btn btn-primary">
             Contact Me
